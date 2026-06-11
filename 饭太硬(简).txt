@@ -20,16 +20,6 @@
       "ext": "[object Object]"
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGGGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
-    },
-    {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",
       "type": 3,
